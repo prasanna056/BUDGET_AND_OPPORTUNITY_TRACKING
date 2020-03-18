@@ -1,0 +1,20 @@
+[
+
+{
+
+id:123,
+name:'swamy',
+role: 'Manager',
+manager_node: 1234 
+
+},
+{
+
+id:124,
+name:'padma',
+role: 'Sales rep',
+manager_node: 123
+
+}
+
+]
