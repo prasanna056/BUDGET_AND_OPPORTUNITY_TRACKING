@@ -3,25 +3,29 @@
 "id":3,
 "name":"swamy",
 "role": "Manager",
-"manager_node":1234
+"manager_node":1234,
+  "Email":"padma.lucky1@gmail.com"
 },
 {
 "id":4,
 "name":"swamy1",
 "role":"Manager",
-"manager_node": 123
+"manager_node": 123,
+ "Email":"padma.lucky1@gmail.com"
 },
   {
 "id":1,
 "name":"padma",
 "role":"Sales rep",
-"manager_node": 123
-},
+"manager_node": 123,
+    "Email":"padma.lucky1@gmail.com"
+    },
   {
 "id":2,
 "name":"padma1",
 "role":"Sales rep",
-"manager_node": 123
+"manager_node": 123,
+    "Email":"padma.lucky1@gmail.com"
 }
   
 ]
