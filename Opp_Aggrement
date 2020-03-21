@@ -2,15 +2,13 @@
 {
 "id":1,
 "Budget":20000000,
-"IdentifiedID":1,
-"Name":"Prasanna",
+"BudgetID":1,
 "Status":"Solid"
 },
 {
 "id":2,
 "Budget":80000000,
-"IdentifiedID":2,
-"Name":"Hema",
+"BudgetID":2,
 "Status":"Won"
 }
 ]
