@@ -3,14 +3,12 @@
 "id":1,
 "Budget":20000000,
 "BudgetID":1,
-"Name":"Prasanna",
 "Status":"Identified"
 },
 {
 "id":2,
 "Budget":80000000,
 "BudgetID":2,
-"Name":"Hema",
 "Status":"Identified"
 }
 ]
